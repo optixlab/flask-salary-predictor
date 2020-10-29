@@ -12,3 +12,6 @@ app.py contains all the requiered for flask and to manage APIs.
 
 Procedure--
 Open command Prompt and go to given directory and then run python app.py
+
+# Reference
+https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
