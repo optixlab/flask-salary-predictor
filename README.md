@@ -1,4 +1,7 @@
 # flask-salary-predictor
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optixlab/flask-salary-predictor/master)
+
 This is project predicts the salary of the employee based on the experience.
 
 # Model
